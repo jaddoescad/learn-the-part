@@ -8,7 +8,7 @@ Learn The Part has a unique feature that allows students to get access to conten
 
 ###### This cover has been designed using resources from Flaticon.com
 
-## Funds Raised by Dev Protocol Community statking will be used for:
+## Funds Raised by Dev Protocol Community staking will be used for:
 
 1. Funding development costs
 2. Recruiting Course Creators
